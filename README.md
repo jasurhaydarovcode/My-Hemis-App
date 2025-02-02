@@ -4,7 +4,7 @@
 
 ## 📥 Yuklab olish
 
-👉 [HemisApp-ni yuklab olish (GitHub Releases)](https://github.com/jasurhaydarovcode/My-Hemis-App/releases/latest)
+👉 [HemisApp-ni yuklab olish](https://github.com/jasurhaydarovcode/My-Hemis-App/releases/download/v1.0.0/HemisApp.Setup.1.0.0.exe)
 
 > **Eslatma:** O'rnatish fayli Windows uchun mo'ljallangan.
 
