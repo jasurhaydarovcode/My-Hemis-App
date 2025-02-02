@@ -1,0 +1,27 @@
+{
+  "name": "my-hemis-app",
+  "version": "1.0.0",
+  "description": "My Hemis App ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . HemisApp --platform=win32 --arch=x64 --icon=icon.ico"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurhaydarovcode/My-Hemis-App.git"
+  },
+  "keywords": [
+    "HEMIS"
+  ],
+  "author": "Jasur Haydarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurhaydarovcode/My-Hemis-App/issues"
+  },
+  "homepage": "https://github.com/jasurhaydarovcode/My-Hemis-App#readme",
+  "devDependencies": {
+    "electron": "^34.0.2",
+    "electron-packager": "^17.1.2"
+  }
+}
