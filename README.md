@@ -4,7 +4,7 @@
 
 ## 📥 Yuklab olish
 
-👉 [HemisApp-ni yuklab olish](https://github.com/jasurhaydarovcode/My-Hemis-App/releases/download/v1.0.0/HemisApp.Setup.1.0.0.exe)
+👉 [MyHemisApp-ni yuklab olish](https://github.com/jasurhaydarovcode/My-Hemis-App/releases/download/v1.0.0/HemisApp.Setup.1.1.0.exe)
 
 > **Eslatma:** O'rnatish fayli Windows uchun mo'ljallangan.
 
@@ -12,18 +12,10 @@
 
 ## ⚙️ O'rnatish bo'yicha ko'rsatmalar
 
-1. Yuklab olingan `.exe` faylni ishga tushiring.
-2. O'rnatish jarayonida dasturni qayerga o'rnatishni tanlang.
+1. Yuklab olingan `HemisApp.Setup.1.1.0.exe` faylni ishga tushiring.
+2. O'rnatish jarayonida dasturni qayerga o'rnatishni tanlang(ixtiyoriy).
 3. "Finish" tugmasini bosib o'rnatishni yakunlang.
 4. Dastur avtomatik ravishda ishga tushadi va **my.hemis.uz** saytiga ulanadi.
-
----
-
-## 🗑️ O'chirish (Uninstall)
-
-1. **Boshqaruv paneli** → **Dasturlar va xususiyatlar** bo'limiga kiring.
-2. "HemisApp" dasturini tanlang va "O'chirish" tugmasini bosing.
-3. O'chirish jarayonini yakunlang.
 
 ---
 
@@ -31,6 +23,14 @@
 
 - Dastur internet orqali **[https://my.hemis.uz/](https://my.hemis.uz/)** saytiga to'g'ridan-to'g'ri ulanadi.
 - Windows dasturi sifatida ishlaydi, alohida brauzer ochishga hojat yo'q.
+
+---
+
+## 🗑️ O'chirish (Uninstall)
+
+1. **Control Panel** → **Programs and Features** bo'limiga kiring.
+2. "HemisApp 1.0.0" dasturini tanlang va "O'chirish" tugmasini bosing.
+3. O'chirish jarayonini yakunlang.
 
 ---
 
@@ -57,4 +57,8 @@
    ```
 4. Pull request yarating.
 
-© 2025 HemisApp. Barcha huquqlar himoyalangan. 🌟
+---
+
+> 하나코 (Hanako) - "Hana" (bitta yoki yagona) va "Code", yagona mukammallik ramzi.
+
+© 2025 하나코 (Hanako). Barcha huquqlar himoyalangan. 🌟
